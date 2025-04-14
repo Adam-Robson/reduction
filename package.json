@@ -23,13 +23,13 @@
   },
   "devDependencies": {
     "@babel/core": "^7.26.10",
-    "@babel/eslint-parser": "^7.26.10",
+    "@babel/eslint-parser": "^7.27.0",
     "@babel/plugin-transform-runtime": "^7.26.10",
     "@babel/preset-env": "^7.26.9",
     "@babel/preset-react": "^7.26.3",
-    "@eslint/js": "^9.23.0",
+    "@eslint/js": "^9.24.0",
     "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react": "^16.2.0",
+    "@testing-library/react": "^16.3.0",
     "@types/eslint__js": "^9.14.0",
     "@types/react": "^19.0.12",
     "@types/react-dom": "^19.0.4",
@@ -37,11 +37,11 @@
     "babel-loader": "^10.0.0",
     "copy-webpack-plugin": "^13.0.0",
     "css-loader": "^7.1.2",
-    "dotenv": "^16.4.7",
-    "eslint": "^9.23.0",
-    "eslint-config-prettier": "^10.1.1",
+    "dotenv": "^16.5.0",
+    "eslint": "^9.24.0",
+    "eslint-config-prettier": "^10.1.2",
     "eslint-plugin-babel": "^5.3.1",
-    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-react": "^7.37.5",
     "eslint-webpack-plugin": "^5.0.0",
     "file-loader": "^6.2.0",
     "globals": "^16.0.0",
@@ -53,8 +53,8 @@
     "prettier": "^3.5.3",
     "style-loader": "^4.0.0",
     "url-loader": "^4.1.1",
-    "webpack": "^5.98.0",
+    "webpack": "^5.99.5",
     "webpack-cli": "^6.0.1",
-    "webpack-dev-server": "^5.2.0"
+    "webpack-dev-server": "^5.2.1"
   }
 }
