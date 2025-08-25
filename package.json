@@ -15,7 +15,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@supabase/supabase-js": "2.55.0",
+    "@supabase/supabase-js": "2.56.0",
     "jsdom": "^26.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.1.1",
