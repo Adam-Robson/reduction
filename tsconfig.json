@@ -11,7 +11,8 @@
     "skipLibCheck": true,
     "strict": true,
     "declaration": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "types": ["vitest/globals", "node"]
   },
   "include": ["src/**/*"]
 }
